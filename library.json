@@ -1,0 +1,19 @@
+{
+	"name": "test",
+	"keywords": "",
+	"description": "",
+	"downloadUrl": "",
+	"authors":
+	[
+		{
+			"name": "",
+			"email": ""
+		}
+	],
+	"build": {
+		"srcDir": "lib"
+	},
+	"version": "0.0.1",
+	"frameworks": "mbed",
+	"platforms": "*"
+}
